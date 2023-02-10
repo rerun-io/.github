@@ -1,6 +1,8 @@
 <a href = "https://www.rerun.io/">
-    <img src="/profile/rerun-logo.png">
+    <img alt="rerun.io" src="https://user-images.githubusercontent.com/1148717/218141237-0442d2b5-ed22-42bf-9321-10af1b894507.png">
 </a>
+
+# Rerun: Visualization infrastructure for computer vision.
 
 [__Rerun beta will be publicly available on February 15th!__](https://twitter.com/ernerfeldt/status/1621134904238170112)
 
