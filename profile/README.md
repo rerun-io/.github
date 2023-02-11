@@ -1,6 +1,8 @@
-<a href = "https://www.rerun.io/">
+<h1 align="center">
+  <a href="https://www.rerun.io/">
     <img alt="rerun.io" src="https://user-images.githubusercontent.com/1148717/218141237-0442d2b5-ed22-42bf-9321-10af1b894507.png">
-</a>
+  </a>
+</h1>
 
 # Rerun: Visualization infrastructure for computer vision.
 
