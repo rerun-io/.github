@@ -8,7 +8,7 @@
 
 [Rerun](https://www.rerun.io/) is an SDK (in Python and Rust) for logging rich data like point clouds, images, and tensors. Those logs are then visualized live or recorded in the Rerun Viewer. 
 
-It's basically print-f style debugging for computer vision and robotics. Over time, the goal is to build the modern visualization stack for real world AI.
+It's basically printf style debugging for computer vision and robotics. Over time, the goal is to build the modern visualization stack for real world AI.
 
 We are a Rust shop, and we're using [`egui`](https://github.com/emilk/egui), [`wgpu`](https://github.com/gfx-rs/wgpu), and [`arrow2`](https://github.com/jorgecarleitao/arrow2) to create an app that is flexible, fast, and works on desktop as well as on the web.
 
