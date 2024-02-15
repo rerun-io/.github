@@ -6,8 +6,6 @@
 
 # Rerun: Visualization infrastructure for computer vision.
 
-[__Rerun beta will be publicly available on February 15th!__](https://twitter.com/ernerfeldt/status/1621134904238170112)
-
 [Rerun](https://www.rerun.io/) is an SDK (in Python and Rust) for logging rich data like point clouds, images, and tensors. Those logs are then visualized live or recorded in the Rerun Viewer. 
 
 It's basically print-f style debugging for computer vision and robotics. Over time, the goal is to build the modern visualization stack for real world AI.
