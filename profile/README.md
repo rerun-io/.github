@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://www.rerun.io/">
-    <img alt="Banner with Rerun logo" src="[https://github.com/user-attachments/assets/be5a4dfd-e3d7-4718-b770-ca8d30bac18f](https://github.com/user-attachments/assets/4574f240-d7a8-413f-9e52-abad3749f1c5)" />
+    <img alt="Banner with Rerun logo" src="https://github.com/user-attachments/assets/4574f240-d7a8-413f-9e52-abad3749f1c5" />
   </a>
 </h3>
 
