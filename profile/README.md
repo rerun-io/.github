@@ -1,8 +1,8 @@
-<h1 align="center">
+<h3 align="center">
   <a href="https://www.rerun.io/">
-    <img alt="rerun.io" src="https://user-images.githubusercontent.com/1148717/218141237-0442d2b5-ed22-42bf-9321-10af1b894507.png">
+    <img alt="Banner with Rerun logo" src="[https://github.com/user-attachments/assets/be5a4dfd-e3d7-4718-b770-ca8d30bac18f](https://github.com/user-attachments/assets/4574f240-d7a8-413f-9e52-abad3749f1c5)" />
   </a>
-</h1>
+</h3>
 
 # Rerun: Visualize Everything Fast.
 
